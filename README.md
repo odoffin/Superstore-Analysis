@@ -65,13 +65,9 @@ the same dataset, covering:
   breakdowns
 - Discount-tier loss analysis and a profit-margin heatmap by region ×
   category
-- An order-level scatter plot (discount vs. profit) with outlier
-  highlighting, using the same IQR-based outlier definition as the
-  notebook (orders outside −$55 to $92 profit)
-
-*(Add a screenshot or two here once exported — a `dashboard/` folder with
-a `.pbix` file and a PNG preview makes this section far more compelling
-for anyone browsing the repo without opening Power BI.)*
+<img width="2224" height="1260" alt="image" src="https://github.com/user-attachments/assets/20a6b55b-8e98-40dd-bc58-ec90192a38e0" />
+<img width="2232" height="1256" alt="image" src="https://github.com/user-attachments/assets/29b41b0b-2bdf-4d90-9bde-79fc27a6e151" />
+<img width="2232" height="1264" alt="image" src="https://github.com/user-attachments/assets/d63d9051-de8b-42c5-a461-2afb79145cc9" />
 
 ## Notebook structure
 

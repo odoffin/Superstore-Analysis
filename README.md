@@ -105,3 +105,13 @@ for anyone browsing the repo without opening Power BI.)*
 | XGBoost (classifier) | ROC-AUC | 0.969 | 0.970 |
 | Random Forest (regressor) | R² | 0.708 | 0.715 |
 
+Contributors
+
+This project was completed as a team effort:
+
+Adewale Odoffin
+Rachna Chatterjee
+Nagasubramanyam Thodupunoori
+Basanta Shahi - https://github.com/basanta999s-ship-it
+Luiz Paulo Pacheco
+Christian Prime Guerra

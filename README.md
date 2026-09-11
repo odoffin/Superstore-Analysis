@@ -112,4 +112,4 @@ This project was completed as a team effort:
 | Nagasubramanyam Thodupunoori | — |
 | Basanta Shahi | [@basanta999s-ship-it](https://github.com/basanta999s-ship-it) |
 | Luiz Paulo Pacheco | — |
-| Christian Prime Guerra | — |
+| Christian Prime Guerra | [@ChristianPrime](https://github.com/ChristianPrime) |

@@ -36,7 +36,7 @@ dashboard for exploring the same findings visually.
 | Path | Purpose |
 |---|---|
 | `notebooks/Superstore_Analysis.ipynb` | Full analysis notebook — cleaning, EDA, classification, regression, hyperparameter tuning (run top to bottom) |
-| `dashboard/` | Power BI dashboard — see below |
+| `dashboard` | Power BI dashboard — see below |
 | `requirements.txt` | Pinned Python dependency versions |
 | `SuperStoreOrders.csv` | The dataset — see Data source below |
 

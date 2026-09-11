@@ -111,7 +111,7 @@ This project was completed as a team effort:
 
 | Name | GitHub |
 |---|---|
-| Adewale Odoffin | — |
+| Adewale Odoffin | [@odoffin](https://github.com/odoffin) |
 | Rachna Chatterjee | — |
 | Nagasubramanyam Thodupunoori | — |
 | Basanta Shahi | [@basanta999s-ship-it](https://github.com/basanta999s-ship-it) |

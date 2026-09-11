@@ -105,7 +105,3 @@ for anyone browsing the repo without opening Power BI.)*
 | XGBoost (classifier) | ROC-AUC | 0.969 | 0.970 |
 | Random Forest (regressor) | R² | 0.708 | 0.715 |
 
-## License
-
-*(Add a license — MIT is the standard permissive choice — if you want
-others to be able to reuse this code.)*

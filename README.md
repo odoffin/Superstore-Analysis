@@ -34,7 +34,7 @@ dashboard for exploring the same findings visually.
 ## Repo contents
 
 | Path | Purpose |
-|---|---|
+|-----|-----|
 | `notebooks/Superstore_Analysis.ipynb` | Full analysis notebook — cleaning, EDA, classification, regression, hyperparameter tuning (run top to bottom) |
 | `dashboard` | Power BI dashboard |
 | `requirements.txt` | Pinned Python dependency versions |

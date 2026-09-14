@@ -109,7 +109,7 @@ This project was completed as a team effort:
 |---|---|
 | Adewale Odoffin | [@odoffin](https://github.com/odoffin) |
 | Rachna Chatterjee | [RachnaChatterjee](https://github.com/RachnaChatterjee)|
-| Nagasubramanyam Thodupunoori | — |
+| Nagasubramanyam Thodupunoori | [nagathodupu94](https://github.com/nagathodupu94)|
 | Basanta Shahi | [@basanta999s-ship-it](https://github.com/basanta999s-ship-it) |
 | Luiz Paulo Pacheco |[ @luiz-analyst](https://github.com/luiz-analyst) |
 | Christian Prime Guerra | [@ChristianPrime](https://github.com/ChristianPrime) |
